@@ -1,5 +1,5 @@
 # BlynkGO_font
-Font สำหรับ BlynkGO  
+Font สำหรับจอ TFT ด้วย BlynkGO  
 
 ## วิธีการใช้งาน BlynkGO font
 - ให้สำเนา  ฟอนต์ c file ไปวางไว้ใน folder ของโปรเจคที่ต้องการ 
