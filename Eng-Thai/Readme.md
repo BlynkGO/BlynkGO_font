@@ -18,7 +18,7 @@
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/nopscript/nopscript_40.png) 
 
-## phethai
+## เพทาย phethai
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/phethai/phethai_40.png) 
 
