@@ -1,3 +1,3 @@
-## นบสคริปต์ nobscript
+## นพสคริปต์ nopscript
 
-![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/nobscript/nobscript_40.png) 
+![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/nopscript/nopscript_40.png) 
