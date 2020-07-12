@@ -29,11 +29,16 @@ void loop(){
 ```
 
 ## SYMBOL สัญลักษณ์ที่สามารถใช้ได้  
-|    SYMBOL     |    สัญลักษณ์   |
-| ------------- |      :---:    |
-| SYMBOL_AUDIO  | ![SYMBOL_AUDIO](SYMBOL_AUDIO.png) |
-| SYMBOL_OK     | ![SYMBOL_OK](SYMBOL_OK.png) |
-| SYMBOL_LIST   | ![SYMBOL_LIST](SYMBOL_LIST.png) |
-| SYMBOL_VIDEO  | ![SYMBOL_VIDEO](SYMBOL_VIDEO.png) |
+|    SYMBOL       |    สัญลักษณ์   |
+| -------------   |      :---:    |
+| SYMBOL_AUDIO    | ![SYMBOL_AUDIO](SYMBOL_AUDIO.png) |
+| SYMBOL_VIDEO    | ![SYMBOL_VIDEO](SYMBOL_VIDEO.png) |
+| SYMBOL_LIST     | ![SYMBOL_LIST](SYMBOL_LIST.png) |
+| SYMBOL_OK       | ![SYMBOL_OK](SYMBOL_OK.png) |
+| SYMBOL_POWER    | ![SYMBOL_POWER](SYMBOL_POWER.png) |
+| SYMBOL_SETTINGS | ![SYMBOL_SETTINGS](SYMBOL_SETTINGS.png) |
+| SYMBOL_TRASH    | ![SYMBOL_TRASH](SYMBOL_TRASH.png) |
+| SYMBOL_HOME     | ![SYMBOL_HOME](SYMBOL_HOME.png) |
+| SYMBOL_DOWNLOAD | ![SYMBOL_DOWNLOAD](SYMBOL_DOWNLOAD.png) |
 
 
