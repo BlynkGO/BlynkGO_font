@@ -22,6 +22,10 @@
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/phethai/phethai_40.png) 
 
+## ประสานมิตร prasanmit
+
+![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/prasanmit/prasanmit_40.png) 
+
 ## ศรีวิชัย srivichai
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/srivichai/srivichai_40.png) 
