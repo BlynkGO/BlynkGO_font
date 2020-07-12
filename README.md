@@ -27,3 +27,6 @@ void loop(){
   BlynkGO.update();
 }
 ```
+
+## SYMBOL สัญลักษณ์ที่สามารถใช้ได้  
+

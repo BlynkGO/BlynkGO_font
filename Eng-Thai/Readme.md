@@ -10,15 +10,15 @@
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/himmaparnt/himmaparnt_40.png) 
 
-## มนวิกา manawika
+## มาณวิกา manawika
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/manawika/manawika_40.png) 
 
-## นพสคริปต์ nopscript
+## นพสคริปท์ nopscript
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/nopscript/nopscript_40.png) 
 
-## phethai
+## เพทาย phethai
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/phethai/phethai_40.png) 
 
