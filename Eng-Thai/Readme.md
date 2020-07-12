@@ -10,7 +10,7 @@
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/himmaparnt/himmaparnt_40.png) 
 
-## มนวิกา manawika
+## มาณวิกา manawika
 
 ![fonleb](https://raw.githubusercontent.com/BlynkGO/BlynkGO_font/master/Eng-Thai/manawika/manawika_40.png) 
 
