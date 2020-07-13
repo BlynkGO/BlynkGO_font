@@ -27,6 +27,14 @@ void loop(){
   BlynkGO.update();
 }
 ```
+**หมายเหตุ** 
+ฟอนต์ประสานมิตร ขนาด 20, 25, 30, 35, 40
+ผู้ใช้ สามารถเรียกใช้ได้เลยโดยไม่ต้องประกาศ `FONT_DECLARE(...);` อีก
+- prasanmit_20 
+- prasanmit_25 
+- prasanmit_30 
+- prasanmit_35 
+- prasanmit_40 
 
 ## วิธีการใช้งาน สัญลักษณ์ ( symbol )
 - เลือก font ที่มี SYMBOL อยู่ภายใน  
