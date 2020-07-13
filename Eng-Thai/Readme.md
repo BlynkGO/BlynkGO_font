@@ -1,6 +1,6 @@
 ## อาลักษณ์ arluck
 
-![arluck](master/Eng-Thai/arluck/arluck_40.png) 
+![arluck](Eng-Thai/arluck/arluck_40.png) 
 
 ## ฟ้อนเล็บ fonleb
 
