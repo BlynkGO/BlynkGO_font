@@ -20,28 +20,9 @@ Font สำหรับจอ TFT ด้วย BlynkGO
 
 ![ArduinoIDE_glabel_use_font](./images/ArduinoIDE_glabel_use_font.png)  
 
-  
-```cpp
-#include <BlynkGO.h>
+- ผลลัพธ์    
+![srivichai](./Eng-Thai/srivichai/srivichai_40.png) 
 
-#define BLYNKGO_KEY    "---------------"
-
-FONT_DECLARE(fonleb_35);   // ประกาศ ฟอนต์ ก่อนที่จะใช้งาน
-
-GLabel label;
-
-void setup(){
-  Serial.begin(115200); Serial.println();
-  BlynkGO.begin(BLYNKGO_KEY);
-
-  label = "สวัสดีครับ";
-  label.font(fonleb_35); // กำหนดให้ label แสดงด้วยฟอนต์ fonleb_35
-}
-
-void loop(){
-  BlynkGO.update();
-}
-```
 **หมายเหตุ** 
 ฟอนต์ประสานมิตร ขนาด 20, 25, 30, 35, 40
 ผู้ใช้ สามารถเรียกใช้ได้เลยโดยไม่ต้องประกาศ `FONT_DECLARE(...);` อีก
@@ -55,26 +36,7 @@ void loop(){
 - เลือก font ที่มี SYMBOL อยู่ภายใน  
 แล้วกำหนดให้ GLabel ตรงๆ ด้วยเครื่องหมาย = 
 
-```cpp
-#include <BlynkGO.h>
 
-#define BLYNKGO_KEY    "---------------"
-
-FONT_DECLARE(fonleb_35);   // ประกาศ ฟอนต์ ก่อนที่จะใช้งาน
-
-GLabel label;
-
-void setup(){
-  Serial.begin(115200); Serial.println();
-  BlynkGO.begin(BLYNKGO_KEY);
-
-  label = SYMBOL_HOME;
-  label.font(fonleb_35); // กำหนดให้ label แสดงด้วยฟอนต์ fonleb_35
-}
-
-void loop(){
-  BlynkGO.update();
-}
 ```
   
 ## SYMBOL สัญลักษณ์ที่สามารถใช้ได้  
