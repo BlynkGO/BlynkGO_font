@@ -2,10 +2,21 @@
 Font สำหรับจอ TFT ด้วย BlynkGO  
 
 ## วิธีการใช้งาน BlynkGO font
-- ให้สำเนา  ฟอนต์ c file ไปวางไว้ใน folder ของโปรเจคที่ต้องการ 
+- Save โปรเจค แล้วเปิดโฟลเดอร์โปรเจคนั้นขึ้นมา  
+โดยเข้าไปที่เมนู `Sketch > Show Sketch Folder`  
   
-- ประกาศ `FONT_DECLARE(...);` ก่อนการใช้งานฟอนต์ที่ต้องการ
+![ArduinoIDE_ShowSketchFolder](./images/ArduinoIDE_ShowSketchFolder.png)
 
+- ให้สำเนา  ฟอนต์ c file ไปวางไว้ใน folder ของโปรเจคที่ต้องการ 
+
+![ArduinoIDE_copy_font_to_projectr](./images/ArduinoIDE_copy_font_to_projectr.png)
+  
+- ปิดโปรเจคแล้วเปิดใหม่ จะพบมี tab ฟอนต์ที่ต้องการได้เพิ่มเข้ามา  
+ให้ประกาศ `FONT_DECLARE(...);` ก่อนการใช้งานฟอนต์นั้น  
+
+![ArduinoIDE_font_declare](./images/ArduinoIDE_font_declare.png)
+
+  
 ```cpp
 #include <BlynkGO.h>
 
