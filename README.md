@@ -29,7 +29,8 @@ void loop(){
 ```
 
 ## วิธีการใช้งาน สัญลักษณ์ ( symbol )
-- เลือก font ที่มี SYMBOL อยู่ภายใน เช่น `prasanmit_XX`
+- เลือก font ที่มี SYMBOL อยู่ภายใน  
+แล้วกำหนดให้ GLabel ตรงๆ ด้วยเครื่องหมาย = 
 
 ```cpp
 #include <BlynkGO.h>
