@@ -14,7 +14,11 @@ Font สำหรับจอ TFT ด้วย BlynkGO
 - ปิดโปรเจคแล้วเปิดใหม่ จะพบมี tab ฟอนต์ที่ต้องการได้เพิ่มเข้ามา  
 ให้ประกาศ `FONT_DECLARE(...);` ก่อนการใช้งานฟอนต์นั้น  
 
-![ArduinoIDE_font_declare](./images/ArduinoIDE_font_declare.png)
+![ArduinoIDE_font_declare](./images/ArduinoIDE_font_declare.png)  
+
+- นำฟอนต์ไปใช้ในวิตเจตที่ต้องการ
+
+![ArduinoIDE_glabel_use_font](./images/ArduinoIDE_glabel_use_font.png)  
 
   
 ```cpp
