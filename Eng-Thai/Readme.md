@@ -4,7 +4,7 @@
 
 ## จุฬาลงกรณ์ chulalongkorn
 
-![chula_university](./chulalongkorn/chula_university.png)  
+![chulalongkorn](./chulalongkorn/chulalongkorn_40.png)  
   
 ## ฟ้อนเล็บ fonleb
 
@@ -17,6 +17,10 @@
 ## มาณวิกา manawika
 
 ![manawika](./manawika/manawika_40.png) 
+
+## มอขอ morkhor
+
+![morkhor](./morkhor/morkhor_40.png)  
 
 ## นพสคริปท์ nopscript
 
