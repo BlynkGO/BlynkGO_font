@@ -40,7 +40,7 @@
 
 ## ราชมงคลพระนคร rmutp
 
-![rmutp_40](.rmutp/rmutp_40.png)
+![rmutp_40](./rmutp/rmutp_40.png)
 
 ## ศรีวิชัย srivichai
 
