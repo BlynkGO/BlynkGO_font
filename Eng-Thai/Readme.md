@@ -4,7 +4,7 @@
 
 ## จุฬาลงกรณ์ chulalongkorn
 
-![chula_university](./chulalongkorn/chula_university.png)  
+![chulalongkorn](./chulalongkorn/chulalongkorn_40.png)  
   
 ## ฟ้อนเล็บ fonleb
 
@@ -18,6 +18,10 @@
 
 ![manawika](./manawika/manawika_40.png) 
 
+## มอขอ morkhor
+
+![morkhor](./morkhor/morkhor_40.png)  
+
 ## นพสคริปท์ nopscript
 
 ![nopscript](./nopscript/nopscript_40.png) 
@@ -29,6 +33,14 @@
 ## ประสานมิตร prasanmit
 
 ![prasanmit](./prasanmit/prasanmit_40.png) 
+
+## รังสิต rangsit
+
+![ransit](./rangsit/rangsit_40.png)
+
+## ราชมงคลพระนคร rmutp
+
+![rmutp_40](./rmutp/rmutp_40.png)
 
 ## ศรีวิชัย srivichai
 
