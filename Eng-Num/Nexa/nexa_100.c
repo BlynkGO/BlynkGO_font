@@ -39518,9 +39518,9 @@ lv_font_t nexa_100 = {
     .dsc = &font_dsc           /*The custom font data. Will be accessed by `get_glyph_bitmap/dsc` */
 };
 
-#if (LV_FONT_FMT_TXT_LARGE == 0)
-#  error "Too large font or glyphs in NEXA_100. Enable LV_FONT_FMT_TXT_LARGE in lv_conf.h")
-#endif
+// #if (LV_FONT_FMT_TXT_LARGE == 0)
+// #  error "Too large font or glyphs in NEXA_100. Enable LV_FONT_FMT_TXT_LARGE in lv_conf.h")
+// #endif
 
 
 #endif /*#if NEXA_100*/

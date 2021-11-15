@@ -39873,9 +39873,9 @@ lv_font_t AftikaBold_80 = {
     .dsc = &font_dsc           /*The custom font data. Will be accessed by `get_glyph_bitmap/dsc` */
 };
 
-#if (LV_FONT_FMT_TXT_LARGE == 0)
-#  error "Too large font or glyphs in AFTIKABOLD_80. Enable LV_FONT_FMT_TXT_LARGE in lv_conf.h")
-#endif
+// #if (LV_FONT_FMT_TXT_LARGE == 0)
+// #  error "Too large font or glyphs in AFTIKABOLD_80. Enable LV_FONT_FMT_TXT_LARGE in lv_conf.h")
+// #endif
 
 
 #endif /*#if AFTIKABOLD_80*/

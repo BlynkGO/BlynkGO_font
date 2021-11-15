@@ -67154,9 +67154,9 @@ lv_font_t URW_DIN_SemiCondMedium_100 = {
     .dsc = &font_dsc           /*The custom font data. Will be accessed by `get_glyph_bitmap/dsc` */
 };
 
-#if (LV_FONT_FMT_TXT_LARGE == 0)
-#  error "Too large font or glyphs in URW_DIN_SEMICONDMEDIUM_100. Enable LV_FONT_FMT_TXT_LARGE in lv_conf.h")
-#endif
+// #if (LV_FONT_FMT_TXT_LARGE == 0)
+// #  error "Too large font or glyphs in URW_DIN_SEMICONDMEDIUM_100. Enable LV_FONT_FMT_TXT_LARGE in lv_conf.h")
+// #endif
 
 
 #endif /*#if URW_DIN_SEMICONDMEDIUM_100*/
