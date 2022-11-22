@@ -6,11 +6,11 @@
 
 #include "blynkgo_lib.h"
 
-#ifndef PRIDE_25
-#define PRIDE_25 1
+#ifndef PRIDI_25
+#define PRIDI_25 1
 #endif
 
-#if PRIDE_25
+#if PRIDI_25
 
 /*-----------------
  *    BITMAPS
@@ -7744,9 +7744,9 @@ static lv_font_fmt_txt_dsc_t font_dsc = {
 
 /*Initialize a public general font descriptor*/
 #if LV_VERSION_CHECK(8, 0, 0)
-const lv_font_t pride_25 = {
+const lv_font_t pridi_25 = {
 #else
-lv_font_t pride_25 = {
+lv_font_t pridi_25 = {
 #endif
     .get_glyph_dsc = lv_font_get_glyph_dsc_fmt_txt,    /*Function pointer to get glyph's data*/
     .get_glyph_bitmap = lv_font_get_bitmap_fmt_txt,    /*Function pointer to get glyph's bitmap*/
@@ -7764,5 +7764,5 @@ lv_font_t pride_25 = {
 
 
 
-#endif /*#if PRIDE_25*/
+#endif /*#if PRIDI_25*/
 
